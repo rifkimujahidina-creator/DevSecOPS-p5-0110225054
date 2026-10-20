@@ -1,0 +1,1 @@
+# Tidak ada dependency eksternal; aplikasi memakai standard library Python.\n

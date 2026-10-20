@@ -1,0 +1,4 @@
+# Aturan dasar Bandit untuk pemindaian kode Python.
+# Quality Gate pada workflow memblokir temuan berseverity medium atau high.
+exclude_dirs:
+  - tests
